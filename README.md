@@ -7,4 +7,3 @@
 - 💬 `ping` me about **reverse engineering**, **unity**, **apple ecosystem**, **anime**
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Batchhh&show_icons=true&theme=dark&count_private=true)
