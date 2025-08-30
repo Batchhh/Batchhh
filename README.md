@@ -1,23 +1,10 @@
-# Hi! 👋 I'm Batch
+### Hello there 👋
 
-🔍 **Reverse Engineer** specializing in Apple ecosystem, Unity based and JavaScript games
+#### A Reverse Engineer by day ☼ and an Anime Enthusiast by night ☾
 
-## What I Do
-- 🍎 iOS/iPadOS/macOS internals & security research  
-- 🎮 Unity & IL2CPP game reverse engineering
-- 🌐 JavaScript game analysis & modding
-- 🛠️ Building tools for RE workflows
-
-## My tools
-- IDA Pro
-- DevTools
-- Frida
-
-## My languages
-- Rust
-- C++
-- Objective-c
-- Python
-- Typescript/Javascript
+- ⚙️ I use daily: `.mm`, `.c`, `.rs`, `.ts`
+- 🌍 I'm mostly active within the **iOSGods Comunity**
+- 💬 `ping` me about **reverse engineering**, **unity**, **apple ecosystem**, **anime**
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Batchhh&show_icons=true&theme=dark&count_private=true)
