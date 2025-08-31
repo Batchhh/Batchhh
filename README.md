@@ -4,5 +4,3 @@
 
 - ⚙️ I use daily: `.mm`, `.c`, `.rs`, `.ts`
 - 💬 `ping` me about **reverse engineering**, **unity**, **apple ecosystem**, **anime**
-<br>
-
