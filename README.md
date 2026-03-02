@@ -1,10 +1,11 @@
-### Hello there 👋
+### Hey, I'm Batch 👋
 
-#### A Reverse Engineer by day and an Anime Enthusiast by night 
+Reverse engineer by day, anime enjoyer by night. OSS enthusiast always.
 
-- ⚙️ I use daily: `.mm`, `.c`, `.rs`, `.ts`
-- 💬 `ping` me about **reverse engineering**, **unity**, **apple ecosystem**, **anime**
+- ⚙️ Daily stack: `.mm` `.c` `.rs` `.ts` `.cpp`
+- 💬 Talk to me about **reverse engineering**, **Unity**, **Apple ecosystem**, **open source**, or **anime**
 
---------------------
-### Pinned projects 👀
-If you are curious about my work, you should check out my pinned projects :) 
+***
+
+### Pinned Projects 👀
+Curious about my work? Check out the pinned repos below!
