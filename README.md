@@ -1,11 +1,13 @@
 ### Hey, I'm Batchhh 👋
 
-Reverse engineer by day, anime enjoyer by night. OSS enthusiast always.
+I reverse engineer things for fun and accidentally make useful tools along the way.
 
-- ⚙️ Daily stack: `.mm` `.c` `.rs` `.ts` `.cpp`
-- 💬 Talk to me about **reverse engineering**, **Unity**, **Apple ecosystem**, **open source**, or **anime**
+- Deep in the **Apple ecosystem** — iOS internals, hooking & patching
+- Low-level systems programming enthusiast
 
-***
+> Coding for fun. If it ships, great. If not, I learned something. :) 
+
+---
 
 ### Pinned Projects 👀
 Curious about my work? Check out the pinned repos below!
