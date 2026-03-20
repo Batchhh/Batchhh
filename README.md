@@ -7,12 +7,6 @@ I reverse engineer things for fun and accidentally make useful tools along the w
 - OSS enthusiast
 
 > Coding for fun. If it ships, great. If not, I learned something. :)
-
----
-
-### How to Reach Me
-Follow me on twitter: https://x.com/BatchhRE
-
 ---
 
 ### Pinned Projects 👀
