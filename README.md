@@ -2,7 +2,7 @@
 
 I reverse engineer things for fun and accidentally make useful tools along the way.
 
-- Deep in the **Apple ecosystem** — iOS internals, hooking & patching
+- Deep in the **Apple ecosystem**
 - Low-level systems programming enthusiast
 - OSS enthusiast
 
