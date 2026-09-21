@@ -1,11 +1,12 @@
-### Hey, I'm Batchhh 👋
+## Hello!
 
-- Deep in the **Apple ecosystem**
-- Low-level systems programming enthusiast
-- OSS enthusiast
-- CVE & CTF & Pen tester
+I share my projects here for everyone, so you can learn from them! 
+I mess up with ios :p 
 
----
+## 📫 How to Reach Me
 
-### Pinned Projects 👀
-Curious about my work? Check out the pinned repos below!
+- X: [@BatchhRE](https://x.com/BatchhRE)
+- GitHub: [@Batchhh](https://github.com/Batchhh)
+
+## Interested in My Work?
+Check out my pinned projects :)
