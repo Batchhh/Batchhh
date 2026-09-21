@@ -1,7 +1,7 @@
 ## Hello!
 
-I share my projects here for everyone, so you can learn from them! 
-I mess up with ios :p 
+- Senior Systems Software Engineer 
+- Junior cybersecurity freelancer
 
 ## 📫 How to Reach Me
 
