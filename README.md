@@ -8,13 +8,9 @@
 - X: [@BatchhRE](https://x.com/BatchhRE)
 - GitHub: [@Batchhh](https://github.com/Batchhh)
 
-## Minesweeper, Played on My Commits
+## NOP-chan vs. My Commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Batchhh/Batchhh/output/minesweeper-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Batchhh/Batchhh/output/minesweeper-contribution-graph.svg">
-  <img alt="A solver playing Minesweeper across my GitHub contribution graph" src="https://raw.githubusercontent.com/Batchhh/Batchhh/output/minesweeper-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Batchhh/Batchhh/output/nop-chan.svg" width="100%" alt="Anime game at dusk: NOP-chan runs along a rooftop, patching my contribution graph into cherry-blossom windows and defeating a bug boss on my best day.">
 
 ## Interested in My Work?
 
