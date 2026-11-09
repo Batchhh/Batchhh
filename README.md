@@ -1,4 +1,4 @@
-## Hello!
+## Hello 👋
 
 - Senior Systems Software Engineer
 - Junior cybersecurity freelancer
