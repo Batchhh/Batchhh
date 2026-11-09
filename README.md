@@ -7,7 +7,7 @@
 
 - X: [@BatchhRE](https://x.com/BatchhRE)
 - GitHub: [@Batchhh](https://github.com/Batchhh)
-- iOSGods.com [@Batch](https://iosgods.com/profile/10738750-batch/)
+- iOSGods.com: [@Batch](https://iosgods.com/profile/10738750-batch/)
 
 ## Interested in My Work?
 
